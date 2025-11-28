@@ -1,0 +1,2 @@
+Always generate Git commit messages in Chinese (Simplified).
+Please follow the Conventional Commits format (feat, fix, docs, style, refactor, etc.).
